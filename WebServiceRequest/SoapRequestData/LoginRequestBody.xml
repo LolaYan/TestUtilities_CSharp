@@ -1,0 +1,9 @@
+﻿<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v1="http://nzlotteries.co.nz/value/v1">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <v1:loginInput>
+      <v1:password>password1</v1:password>
+      <v1:userName>CoreGameTest.5716367hello@test.com</v1:userName>
+    </v1:loginInput>
+  </soapenv:Body>
+</soapenv:Envelope>
